@@ -3,8 +3,8 @@ My name is Adekunle Adewole and i am a data scientist that loves web development
 ### 🌱 I’m currently learning
 - Reinforcement learning 
 - Natural Language Processing
-- Deep learning with tensorflow 
-- PostgreSQL
+- AWS 
+- computer vision
 
 ### 📫 How to reach me:
 - linkedin: https://www.linkedin.com/in/adewole-adekunle-565b2718b
