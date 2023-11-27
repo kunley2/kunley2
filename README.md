@@ -1,9 +1,9 @@
 ### Hi there, Folks 👋
-My name is Adekunle Adewole and i am a data scientist that loves web development, well the backend part. i tend to always push myself and i get bored of doing the same thing over and over again, like come on change is constant
+My name is Adekunle Adewole and i am a machine learning engineer that loves web development, well the backend part. i tend to always push myself and i get bored of doing the same thing over and over again, like come on change is constant
 ### 🌱 I’m currently learning
 - Reinforcement learning 
 - Natural Language Processing
-- AWS 
+- Cloud computing 
 - computer vision
 
 ### 📫 How to reach me:
